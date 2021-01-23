@@ -21,7 +21,7 @@
 ## commands
 * $ git cat-file -p commit_hash
 * $ git log --all --graph --decorate
-* 
+* $ git checkout (master) || (commit_hash) 
 
 test code for conflict branch
 
