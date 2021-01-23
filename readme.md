@@ -23,7 +23,3 @@
 * $ git log --all --graph --decorate
 * $ git checkout (master) || (commit_hash) 
 
-test code for conflict branch
-
-
-this for test commit
