@@ -12,3 +12,4 @@
 * -- for new branch
    * git checkout -b
  * git merge branch
+* git pull origin master
