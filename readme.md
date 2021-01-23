@@ -15,6 +15,13 @@
 * git pull origin master
 * git reset (for add)
 * git reset HEAD~1 (for commit)
+* git reset commit_hash
+* git reset --hard commit-hash
+
+## commands
+* $ git cat-file -p commit_hash
+* $ git log --all --graph --decorate
+* 
 
 test code for conflict branch
 
