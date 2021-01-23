@@ -10,6 +10,8 @@
 * git branch
 * git checkout
 * -- for new branch
-   * git checkout -b
+   * git checkout -b branch_name
  * git merge branch
 * git pull origin master
+
+test code for conflict branch
