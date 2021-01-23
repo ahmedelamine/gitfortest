@@ -10,6 +10,8 @@
 * git branch
 * git checkout
 * -- for new branch
-   * git checkout -b
+   * git checkout -b name
  * git merge branch
 * git pull origin master
+
+this name hhhhhh
