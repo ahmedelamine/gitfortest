@@ -11,3 +11,4 @@
 * git checkout
 * -- for new branch
    * git checkout -b
+ * git merge branch
