@@ -1,1 +1,1 @@
-Instead of traditional “undo” systems, Git has its own system with completely different terminology, which includes such terms like git clean, git rm, git reset and so on. 
+Instead of traditional “undo” systems, Git has its own system with completely different terminology, which includes such terms like git clean, git rm, git reset and so on.
