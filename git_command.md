@@ -54,3 +54,4 @@ To avoid duplicating information, we’re not going to explain the commands belo
 * `git config --global alias.c commit` : creating aliases
 * `git stash pop`: removes the changes from your stash and re-applies them to you working copy
 * `git stash apply`: if you want to re-apply the changes and keep them in your stash
+* `git tag`
