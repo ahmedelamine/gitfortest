@@ -47,3 +47,10 @@ To avoid duplicating information, we’re not going to explain the commands belo
 * `git stash` : temporarily remove modifications to working directory
 * `git bisect` : binary search history (e.g. for regressions)
 * `.gitignore` : specify intentionally untracked files to ignore
+
+
+
+* `git clone --branch <tag> <repo>` : cloning a certain tag 
+* `git config --global alias.c commit` : creating aliases
+* `git stash pop`: removes the changes from your stash and re-applies them to you working copy
+* `git stash apply`: if you want to re-apply the changes and keep them in your stash
