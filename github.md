@@ -1,1 +1,1 @@
-test
+Instead of traditional “undo” systems, Git has its own system with completely different terminology, which includes such terms like git clean, git rm, git reset and so on. Each of these commands has specific functions and is used for undoing changes on the local and public repositories.
