@@ -4,12 +4,3 @@ this is 1
 
 
 this is nice
-
-
-git add new
-
-
-git for last
-
-
-test thing
