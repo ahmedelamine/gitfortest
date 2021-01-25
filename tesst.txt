@@ -7,3 +7,6 @@ this is nice
 
 
 git add new
+
+
+git for last
